@@ -10,7 +10,8 @@ public class LazyLoadingSingletonDP {
 
 	public static LazyLoadingSingletonDP getInstance() {
 		if (instance == null) {
-					return new LazyLoadingSingletonDP();
-			}
-		}return instance;
-}}
+			return new LazyLoadingSingletonDP();
+		}
+		return instance;
+	}
+}
