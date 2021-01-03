@@ -15,8 +15,8 @@ import java.lang.reflect.Constructor;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
-import com.java.basics.singleton.prevention.BillPughSingleton;
-import com.java.basics.singleton.prevention.BillPughSingletonPrevention;
+import com.basic.dp.singleton.prevention.BillPughSingleton;
+import com.basic.dp.singleton.prevention.BillPughSingletonPrevention;
 
 public class SingletonPrevention {
 

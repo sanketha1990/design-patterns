@@ -1,4 +1,4 @@
-package com.java.basics.singleton.prevention;
+package com.basic.dp.singleton.prevention;
 
 import java.io.Serializable;
 

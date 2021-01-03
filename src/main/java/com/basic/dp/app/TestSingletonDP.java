@@ -1,8 +1,8 @@
-package com.java.basics.app;
+package com.basic.dp.app;
 
-import com.java.basics.singleton.EarlyLoadingSingletonDP_01;
+import com.basic.dp.singleton.EarlyLoadingSingletonDP_01;
 
-public class TesterDP {
+public class TestSingletonDP {
     public static void main(String[] args) {
         EarlyLoadingSingletonDP_01 instance=EarlyLoadingSingletonDP_01.getInstace();
         System.out.println("Instance = "+instance.toString());

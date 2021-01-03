@@ -2,14 +2,13 @@ package com.java.basic.prevention;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
-import static org.mockito.BDDMockito.given;
 import static org.mockito.Mockito.when;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
-import com.java.basics.singleton.prevention.BillPughSingleton;
-import com.java.basics.singleton.prevention.BillPughSingletonPrevention;
+import com.basic.dp.singleton.prevention.BillPughSingleton;
+import com.basic.dp.singleton.prevention.BillPughSingletonPrevention;
 
 public class SingletonPreventFromReflection {
 

@@ -1,4 +1,4 @@
-package com.java.basics.singleton;
+package com.basic.dp.singleton;
 
 public class ThreadSafeSingletonDP_04 {
 

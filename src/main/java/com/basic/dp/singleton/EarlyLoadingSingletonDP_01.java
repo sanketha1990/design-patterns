@@ -1,4 +1,4 @@
-package com.java.basics.singleton;
+package com.basic.dp.singleton;
 
 public class EarlyLoadingSingletonDP_01 {
     private static final EarlyLoadingSingletonDP_01 instace=new EarlyLoadingSingletonDP_01();

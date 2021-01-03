@@ -4,12 +4,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.java.basics.singleton.BillPughSingletonDP_6;
-import com.java.basics.singleton.EarlyLoadingSingletonDP_01;
-import com.java.basics.singleton.LazyLoadingSingletonDP_03;
-import com.java.basics.singleton.StaticBlockSingletonDP_02;
-import com.java.basics.singleton.ThreadDoubleSafetySingletonDP_05;
-import com.java.basics.singleton.ThreadSafeSingletonDP_04;
+import com.basic.dp.singleton.BillPughSingletonDP_6;
+import com.basic.dp.singleton.EarlyLoadingSingletonDP_01;
+import com.basic.dp.singleton.LazyLoadingSingletonDP_03;
+import com.basic.dp.singleton.StaticBlockSingletonDP_02;
+import com.basic.dp.singleton.ThreadDoubleSafetySingletonDP_05;
+import com.basic.dp.singleton.ThreadSafeSingletonDP_04;
 
 public class DesignPatternTest {
 
